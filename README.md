@@ -39,7 +39,7 @@ Script takes 2 arguments: `--colour` (or `-c`) and `--text` or (`-t`):
 python ./keep-calm --colour "red" --text "I can't keep calm" "and carry on" "  I'm a programmer  " "I get 21 errors" "in a 20 line program"
 ```
 
-![I can't keep calm and carry on I'm a programmer I get 21 errors in a 20 line program](default.png?raw=true)
+![I can't keep calm and carry on I'm a programmer I get 21 errors in a 20 line program](example.png?raw=true)
 
 ## Know issues
 Sometimes (on smaller font sizes usually) text is cropped. To fix this you can simply add spaces to both sides of cropped line (like in the example above).
