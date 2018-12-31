@@ -36,7 +36,7 @@ Script takes 2 arguments: `--colour` (or `-c`) and `--text` or (`-t`):
 
 ### Example usage
 ```bash
-python ./keep-calm --colour "red" --text "I can't keep calm" "and carry on" "  I'm a programmer  " "I get 21 errors" "in a 20 line program"
+python ./keep-calm.py --colour "red" --text "I can't keep calm" "and carry on" "  I'm a programmer  " "I get 21 errors" "in a 20 line program"
 ```
 
 ![I can't keep calm and carry on I'm a programmer I get 21 errors in a 20 line program](example.png?raw=true)
